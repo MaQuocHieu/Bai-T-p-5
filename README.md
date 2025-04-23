@@ -29,5 +29,47 @@ B. Nội dung Bài tập 05:
 ## Bài làm
 Đồ án : Phân tích thiết kế hệ QL thư viện trường ĐHKT Công Nghiệp Thái Nguyên
 
+## Nội dung
+## Tạo bảng Database tên QL THUVIEN DHKTCN 
+
+![image](https://github.com/user-attachments/assets/e47fbf44-b19c-40fd-83cd-99cbbaf1b07a)
+
+## Gồm các bảng sau :
+## BẢNG ChiTietPhieuMuon
+
+![image](https://github.com/user-attachments/assets/cf11cdb4-99bc-4437-b679-0e5332c512c5)
+
+## Bảng NhanVien
+
+![image](https://github.com/user-attachments/assets/66d041ca-c62e-4268-b59d-0512d415ab3e)
+
+## Bảng PhieuMuon
+
+![image](https://github.com/user-attachments/assets/d860070a-f4bd-4722-932b-c510a234e1cd)
+
+## Bảng PhieuTra
+
+![image](https://github.com/user-attachments/assets/fa01c06b-7227-4e8b-ad5f-620222a25dde)
+
+## Bảng Sach
+
+![image](https://github.com/user-attachments/assets/3f942fca-d209-4d4f-b14f-0e5bd8743b8f)
+
+## Bảng SinhVien
+
+![image](https://github.com/user-attachments/assets/c3235c0a-befe-4ea7-a604-eefd97261c3d)
+
+## Bảng TheLoai
+
+![image](https://github.com/user-attachments/assets/4d19bbf2-9335-46b1-929e-ca50787ceb6d)
+
+
+
+
+
+
+
+
+
 
 
