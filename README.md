@@ -29,7 +29,7 @@ B. Nội dung Bài tập 05:
 ## Bài làm
 Đồ án : Phân tích thiết kế hệ QL thư viện trường ĐHKT Công Nghiệp Thái Nguyên
 
-## Nội dung
+## Nội dung :
 ## Tạo bảng Database tên QL THUVIEN DHKTCN 
 
 ![image](https://github.com/user-attachments/assets/e47fbf44-b19c-40fd-83cd-99cbbaf1b07a)
@@ -62,6 +62,30 @@ B. Nội dung Bài tập 05:
 ## Bảng TheLoai
 
 ![image](https://github.com/user-attachments/assets/4d19bbf2-9335-46b1-929e-ca50787ceb6d)
+
+## Bảng Database diagrams
+
+![Screenshot 2025-04-23 211613](https://github.com/user-attachments/assets/54df3a3e-b81c-406c-a43e-95a7b0dd1654)
+
+# Nội dung triger : 
+- Trigger này là cảnh báo xem sinh viên đã trả sách đúng ngày hay chưa
+## Code
+
+![Screenshot 2025-04-23 215356](https://github.com/user-attachments/assets/92fdd65b-b8f6-4ee0-9da6-6af7fce1c10d)
+
+## Kiểm tra kết quả
+
+![Screenshot 2025-04-23 215411](https://github.com/user-attachments/assets/b241145c-7634-412c-9592-bcd9bd785911)
+
+## Bài học rút ra từ triger
+ - Trigger này sẽ giúp cho nhân viên ở thư viên biết những sinh viên nào chưa trả sách và sẽ thông báo vào email của sinh viên đó. Nếu sinh đó làm mất sách sẽ phải đóng tiền phạt mà đã nội quy đã quy định.
+
+
+
+
+
+
+
 
 
 
